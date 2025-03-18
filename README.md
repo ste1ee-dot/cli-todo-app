@@ -9,14 +9,14 @@ This project was made on purpose of learning [Go](https://go.dev/). It's probabl
 Install my project with go
 
 ```bash
-  go build
-  go install
+go build
+go install
 ```
 
 To run it, from projects directory do
 
 ```bash
-  todo
+todo
 ```
 ## Packages used
 
